@@ -1,0 +1,57 @@
+.bgimage {
+    height:100vh;
+    background: url('images/shop.jpg');
+    background-size:cover;
+    position:relative;
+}
+.girl_title {
+    font-size: 4.5rem;
+}
+.girl_desc {
+    font-size: 2rem;
+}
+.imageAboutPage {
+    width: 100%;
+}
+.JuicesText.card {
+    height: 280px;
+    cursor: pointer;
+  }
+  .servicesIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+.card-title {
+    text-align: center;
+}
+.card:hover .servicesIcon {
+    color: #008000;
+}
+.servicesText:hover {
+    border: 1px solid #008000;
+}
+.navbarScroll.navbarDark {
+    background-color: rgb(21, 17, 231);
+}
+.social-icons {
+    font-size: 40px;
+    cursor: pointer;
+}
+.fab {
+    color: #000000;
+}
+#footer {
+    background-color: #423d41;
+    text-align: center;
+}
+#about, #Juicecs, #contact , #View, #image, #Menu{
+    margin-top: 4rem;
+    padding-top: 4rem;
+}
+#contact {
+    padding-bottom: 4rem;
+}
+.v1{
+    margin-left: 24%;
+}
